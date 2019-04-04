@@ -1,4 +1,7 @@
-=== WP Get Attachments (WordPress Plugin) ===
+x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
+x   WP Get Attachments (WordPress Plugin)   x
+x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
+
 Contributors: Prashant, Stephen, HTMLPanda
 Tags: page, post, attachments, image attachments, wp, wordpress
 Requires at least: 1.2.0
@@ -29,4 +32,3 @@ Note: You can call this function with 1,2,3 or none parameters.
 
 == Changelog ==
 1.0.0 updated files
-
