@@ -1,6 +1,17 @@
-=== WP Get Attachments ===
-Contributors: Robin,sparxit,sparx wp team 
-Tags: page,post,attachments,image attachments
+/*
+ Plugin Name: WP Get Attachments (WordPress Plugin)
+ Plugin URI: http://www.htmlpanda.com/
+ Description: Get all image attachments from a page or post. 
+ Version: 1.0.0
+ Author: HTMLPanda
+ Author URI: http://www.htmlpanda.com/
+ Author Email: sales@htmlpanda.com
+ License: GPL
+ */
+
+=== WP Get Attachments (WordPress Plugin) ===
+Contributors: Prashant, Stephen, HTMLPanda
+Tags: page, post, attachments, image attachments, wp, wordpress
 Requires at least: 1.2.0
 Tested up to: 3.5.1
 Stable tag: 1.0.0
@@ -10,7 +21,7 @@ This plugin is used to fetch the image attachments of a post or page
 
 == Description ==
 <p>Many of us need to fetch the image attachments of a post or page and then we have to write code . Here is the plugin to fetch that , just call the function and it will return all image attachments of a post/page that you can fetch to show image .</p>
-<p>For more plugins, themes and WordPress support , Please visit <a rel="nofollow" href="http://www.csschopper.com/">http://www.csschopper.com/</a></p>
+<p>For more plugins, themes and WordPress support , Please visit <a href="http://www.htmlpanda.com/">http://www.htmlpanda.com/</a></p>
 
 == Installation ==
 
