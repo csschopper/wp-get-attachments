@@ -1,12 +1,12 @@
 <?php
 /*
- Plugin Name: WP Get Attachments
- Plugin URI: http://www.csschopper.com/
+ Plugin Name: WP Get Attachments (WordPress Plugin)
+ Plugin URI: http://www.htmlpanda.com/
  Description: Get all image attachments from a page or post. 
  Version: 1.0.0
- Author: Robin Gupta
- Author URI: http://www.csschopper.com/
- Author Email: robin.gupta@sparxtechnologies.com
+ Author: HTMLPanda
+ Author URI: http://www.htmlpanda.com/
+ Author Email: sales@htmlpanda.com
  License: GPL
  */
 
