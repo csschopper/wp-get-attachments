@@ -1,14 +1,3 @@
-/*
- Plugin Name: WP Get Attachments (WordPress Plugin)
- Plugin URI: http://www.htmlpanda.com/
- Description: Get all image attachments from a page or post. 
- Version: 1.0.0
- Author: HTMLPanda
- Author URI: http://www.htmlpanda.com/
- Author Email: sales@htmlpanda.com
- License: GPL
- */
-
 === WP Get Attachments (WordPress Plugin) ===
 Contributors: Prashant, Stephen, HTMLPanda
 Tags: page, post, attachments, image attachments, wp, wordpress
